@@ -9,4 +9,4 @@ iv. entropy
 
 web app frontend was made using streamlit library from python
 
-model used in backened is made using randomforestclassifier fron sklearn
+model used in backened is made using randomforestclassifier from sklearn
